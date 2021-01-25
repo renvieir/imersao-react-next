@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "description": "",
+  "questions": [],
+  "external": [],
+  "theme": {
+    "bg": "https://wallpaperaccess.com/full/3821721.jpg",
+    "colors": {
+      "primary": "#22b6e8",
+      "secondary": "#ec549d",
+      "mainBg": "#7dcf49",
+      "contrastText": "#000",
+      "wrong": "#f82956",
+      "success": "#fc7b19"
+    }
+  }
+}
